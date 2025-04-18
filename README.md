@@ -1,3 +1,3 @@
 # learn.py
 
-exercises and toy projects to practice python and computer science topics
+exercises,notes, and toy projects to practice python and computer science topics
